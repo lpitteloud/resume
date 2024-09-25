@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Laurent Pitteloud",
+    "label": "Lead développeur PHP/Symfony en recherche d'une prochaine opportunité",
+    "email": "l.pitteloud@gmail.com",
+    "phone": "+33 6 37 32 53 09",
+    "location": {
+      "city": "Caen",
+      "region": "Normandie",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Laurent Pitteloud",
+        "url": "https://www.linkedin.com/in/laurent-pitteloud-70240b30"
+      }
+    ],
+    "summary": "Développeur passionné et expérimenté, je souhaite mettre mes compétences techniques au service de projets ayant un impact positif, en particulier dans les domaines de la durabilité et de l’environnement. Avec une expertise solide en Symfony et un désir de contribuer à des solutions technologiques éthiques, je recherche une entreprise ambitieuse qui s'engage à résoudre des défis environnementaux à travers l'innovation."
+  },
+  "skills": [
+    {
+      "name": "Travail d’équipe",
+      "level": "Advanced"
+    },
+    {
+      "name": "Coordination d’équipe",
+      "level": "Advanced"
+    },
+    {
+      "name": "Planification opérationnelle",
+      "level": "Advanced"
+    },
+    {
+      "name": "Revue de code",
+      "level": "Advanced"
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native or Bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    }
+  ],
+  "work": [
+    {
+      "company": "TEKYN",
+      "position": "Lead développeur PHP/Symfony",
+      "startDate": "2022-02",
+      "endDate": "2023-12",
+      "summary": "Lead d'une équipe de 5 développeurs pour le développement d'une API GraphQL destinée à un produit SaaS dans le secteur du textile.",
+      "highlights": [
+        "Gestion d’équipe et revue de code",
+        "Planification opérationnelle"
+      ],
+      "technologies": [
+        "PHP 8.1", "Symfony 6", "GraphQL", "MySQL 8", "Docker", "AWS", "GitLab"
+      ]
+    },
+    {
+      "company": "TEKYN",
+      "position": "Développeur PHP/Symfony",
+      "startDate": "2019-12",
+      "endDate": "2022-02",
+      "summary": "Développement back et front d'un produit SaaS pour l'industrie textile.",
+      "highlights": [
+        "Implémentation de nouvelles fonctionnalités pour les acteurs de l'industrie textile",
+        "Travail sur les vues Twig et les interfaces utilisateur"
+      ],
+      "technologies": [
+        "PHP 7", "Symfony 3.4", "MariaDB", "GitLab", "OVH"
+      ]
+    },
+    {
+      "company": "ADFAB",
+      "position": "Développeur back-end",
+      "startDate": "2016-06",
+      "endDate": "2018-10",
+      "summary": "Développement de sites e-commerce et de contenu, et création d'API REST pour des applications mobiles.",
+      "highlights": [
+        "Développement d'API REST pour la communication avec les applications mobiles",
+        "Industrialisation et mise en place de tests automatisés"
+      ],
+      "technologies": [
+        "PHP 5/7", "Symfony 2/3/4", "Zend Framework 2", "MySQL 5", "WordPress", "Prestashop 1.7", "Jenkins"
+      ]
+    },
+    {
+      "company": "Loyalty Company",
+      "position": "Concepteur / Développeur web",
+      "startDate": "2015-08",
+      "endDate": "2016-06",
+      "summary": "Développement d'applications web en AngularJS et Symfony sous la supervision d'un chef de projet.",
+      "highlights": [
+        "Travail sur des projets clients avec des technologies front-end et back-end",
+        "Participation aux décisions d'architecture"
+      ],
+      "technologies": [
+        "AngularJS 1.5", "Symfony 2"
+      ]
+    },
+    {
+      "company": "Pantoine",
+      "position": "Développeur web",
+      "startDate": "2013-11",
+      "endDate": "2015-07",
+      "summary": "Développement et administration de sites web, gestion de projets clients et supervision de stagiaires.",
+      "highlights": [
+        "Gestion de projet, rédaction de documents techniques et relation client",
+        "Encadrement et montée en compétences de stagiaires"
+      ],
+      "technologies": [
+        "CSS3", "WordPress", "Symfony 2", "jQuery"
+      ]
+    },
+    {
+      "company": "TIDEC",
+      "position": "Concepteur / Développeur web",
+      "startDate": "2008-11",
+      "endDate": "2013-05",
+      "summary": "Développement du back-office d'une solution de billetterie électronique et création de nouvelles fonctionnalités pour les utilisateurs.",
+      "highlights": [
+        "Ajout de fonctionnalités comme la sélection des places et la vente guichet",
+        "Automatisation des processus via PL/SQL"
+      ],
+      "technologies": [
+        "PL/SQL", "Smarty", "XHTML", "CSS2", "MySQL"
+      ]
+    },
+    {
+      "company": "zSlide",
+      "position": "Développeur web",
+      "startDate": "2007-09",
+      "endDate": "2008-06",
+      "summary": "Développement de la plateforme communautaire www.pictogame.com et intégration de fonctionnalités interactives.",
+      "highlights": [
+        "Intégration de systèmes communautaires (ratings, commentaires, partage)",
+        "Développement de web services internes et interface d'administration"
+      ],
+      "technologies": [
+        "xHTML", "CSS2", "PHP", "LAMP"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Université Caen Basse-Normandie",
+      "studyType": "Licence Professionnelle",
+      "area": "Informatique",
+      "startDate": "2006",
+      "endDate": "2007"
+    },
+    {
+      "institution": "IESA Multimédia",
+      "studyType": "Master M1",
+      "area": "Direction de projet technique, Communication digitale et multimédia",
+      "startDate": "2013",
+      "endDate": "2014"
+    },
+    {
+      "institution": "IUT Saint-Dié-des-Vosges",
+      "studyType": "DUT",
+      "area": "Informatique",
+      "startDate": "2003",
+      "endDate": "2005"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Sylius, une vraie alternative à Prestashop ou Magento ?"
+    },
+    {
+      "name": "Industrialiser WordPress avec WordPlate"
+    },
+    {
+      "name": "Comment gérer ses règles métiers grâce au pattern Specification ?"
+    },
+    {
+      "name": "Concevoir un système de badges avec Sylius"
+    }
+  ]
+}
